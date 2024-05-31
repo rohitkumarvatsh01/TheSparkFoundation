@@ -1,5 +1,5 @@
 # TheSparkFoundation
-HAPPY FOUNDATION | HTML | CSS | JAVASCRIPT |
+HAPPY FOUNDATION | HTML | CSS | JAVASCRIPT
 <br>
 • Designed and developed a user-friendly and responsive website for The Sparks Foundation, a non-profit organization dedicated to supporting the education of
 underprivileged children.
