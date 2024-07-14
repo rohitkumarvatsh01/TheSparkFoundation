@@ -6,4 +6,4 @@ underprivileged children.
 <br>
 • The website features a donation portal where users can donate funds to the NGO through the Razorpay payment gateway Integration.
 <br>
-• Collaborated with the foundation's team to gather requirements, design the user experience, and ensure the website reflects the organization's values and goals.
+• Collaborated with the foundation's team to gather requirements, design the user experience, and ensure the website reflects the organization's values and goals. 
